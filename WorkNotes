@@ -1,0 +1,24 @@
+PreWork week: 2/1-2/5
+1. Learn Concepts:
+	1.1 Reference code on neshC, need to port them to C
+	1.2 Linux (commands , directory structure , system calls , device drivers etc)
+	1.3 Develop Logging library for C starting form next week
+		1.3.1 What's function of a logging library? (a modification of printf is mentioned)  
+			Refer to some existing logging libraries(log4C, Java logging libraries)
+		1.3.2 Async-safe & multi-thread safe concepts
+2 Tools:
+	2.1 Git
+3 C programming language
+	3.1 Exception handling
+	3.2 File I/O
+	3.3 Pointers
+	3.4 Code Style
+4 Network:
+	4.1 TCP/IP socket programming
+	4.2 IEEE 802.15.4 mesh network (frequency hopping, network discovery, and access control)
+Reference:
+Besides Linux and C please read up on:
+-   Programming with Python and Tkinter – particularly drawing objects such as node and links on 2D canvas, creating menus, dialog boxes etc.
+-   Socket programming with TCP and UDP
+-   POSIX real-time signals
+-   Multi-threading concepts. How to use semaphores and mutexs.
